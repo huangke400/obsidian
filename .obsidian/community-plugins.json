@@ -1,1 +1,23 @@
-[   "obsidian-custom-frames",   "templater-obsidian",   "copilot",   "table-editor-obsidian",   "obsidian-kanban",   "obsidian-tasks-plugin",   "calendar",   "dataview",   "iconic",   "obsidian-file-color",   "automatic-table-of-contents",   "file-tree-alternative",   "sheet-plus",   "obsidian-excel-to-markdown-table",   "notebook-navigator",   "pdf-plus",   "homepage",   "recent-files-obsidian",   "smart-connections",   "apex-dashboard",   "git-obsi-sync" ] 
+[
+  "obsidian-custom-frames",
+  "templater-obsidian",
+  "copilot",
+  "table-editor-obsidian",
+  "obsidian-kanban",
+  "obsidian-tasks-plugin",
+  "calendar",
+  "dataview",
+  "iconic",
+  "obsidian-file-color",
+  "automatic-table-of-contents",
+  "file-tree-alternative",
+  "sheet-plus",
+  "obsidian-excel-to-markdown-table",
+  "notebook-navigator",
+  "pdf-plus",
+  "homepage",
+  "recent-files-obsidian",
+  "smart-connections",
+  "apex-dashboard",
+  "obsidian-git"
+]
