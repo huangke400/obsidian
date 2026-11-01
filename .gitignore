@@ -1,0 +1,27 @@
+﻿# ===== Obsidian Git 同步忽略清单 =====
+# 本地工具/插件缓存，不参与版本管理
+.opencode/
+.copilot/
+.smart-env/
+.dashboard-backup/
+.trash/
+node_modules/
+*.map
+
+# 图片资源不同步（原图保留在本地库内）
+*.png
+*.PNG
+
+# 含 API Key 的插件配置，禁止入库
+.obsidian/plugins/copilot/data.json
+.obsidian/plugins/copilot/data-v3-credentials-backup-*.json
+.obsidian/plugins/apex-dashboard/data.json
+
+# 频繁变动的窗口布局，减少无意义提交
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+desktop.ini

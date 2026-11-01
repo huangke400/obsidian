@@ -1,0 +1,59 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "hgfVEJQKJQtYMwnUO8g_A",
+      "name": "red",
+      "value": "#ff0000"
+    },
+    {
+      "id": "013AtjPoRQ00DeNQ27Urh",
+      "name": "绿",
+      "value": "#38f604"
+    },
+    {
+      "id": "VAkhAQnoryYxEVi39Vo6-",
+      "name": "blue",
+      "value": "#2003fc"
+    },
+    {
+      "id": "KTo8t1wi_7rl553dRO94N",
+      "name": "",
+      "value": "#ccf500"
+    },
+    {
+      "id": "yRcvXCYMVAQ9E7o1QAlN-",
+      "name": "",
+      "value": "#04f6a5"
+    },
+    {
+      "id": "3EM7wDKO0Ra145Vvvy_Zg",
+      "name": "",
+      "value": "#5900ff"
+    },
+    {
+      "id": "cKq-rjDDw8AHjdQ-Q0-0u",
+      "name": "",
+      "value": "#faf200"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "1455-清洁能源推广项目",
+      "color": "KTo8t1wi_7rl553dRO94N"
+    },
+    {
+      "path": "1455-清洁能源推广项目/02-蓝图阶段",
+      "color": "KTo8t1wi_7rl553dRO94N"
+    },
+    {
+      "path": "1455-清洁能源推广项目/03-实现阶段",
+      "color": "013AtjPoRQ00DeNQ27Urh"
+    },
+    {
+      "path": "1455-清洁能源推广项目/00-项目管理/09-待解决问题.md",
+      "color": "hgfVEJQKJQtYMwnUO8g_A"
+    }
+  ]
+}

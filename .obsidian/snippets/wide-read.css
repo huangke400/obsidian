@@ -1,0 +1,70 @@
+/* 1. 宽屏舒适布局 */
+.markdown-source-view.mod-cm6 .cm-content,
+.markdown-preview-view {
+  max-width: 920px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 24px 40px;
+}
+
+/* 2. 美化引用块 */
+blockquote {
+  border-left: 4px solid #6366f1;
+  background: rgba(99, 102, 241, 0.08);
+  padding: 12px 16px;
+  border-radius: 0 8px 8px 0;
+  margin: 16px 0;
+}
+
+/* 3. 图片圆角阴影卡片 */
+img {
+  display: block !important;
+  margin: 20px auto !important;
+  border-radius: 10px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+}
+
+/* 4. 胶囊样式标签 */
+.tag {
+  background: rgba(59, 130, 246, 0.15);
+  color: #60a5fa;
+  border-radius: 12px;
+  padding: 2px 10px;
+  font-size: 12px;
+  margin: 0 4px 4px 0;
+}
+
+/* 5. 列表层级指引线 */
+.cm-list-indent {
+  border-left: 1px solid rgba(128,128,128,0.25);
+  margin-left: -1px;
+}
+
+/* 6. 圆形美化复选框 */
+input[type="checkbox"],
+.cm-formatting-task {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  border: 2px solid #6366f1;
+  border-radius: 50%;
+  cursor: pointer;
+  position: relative;
+}
+input[type="checkbox"]:checked::after,
+.cm-formatting-task:checked::after {
+  content: "✓";
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 12px;
+}
+
+/* 7. 自定义中英文字体 */
+body {
+  --font-text-theme: "霞鹜文楷", "LXGW WenKai", "Microsoft YaHei", sans-serif;
+  --font-monospace-theme: "JetBrains Mono", "Fira Code", monospace;
+}

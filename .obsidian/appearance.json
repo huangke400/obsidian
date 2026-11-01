@@ -1,0 +1,10 @@
+{
+  "enabledCssSnippets": [
+    "style",
+    "wide-read"
+  ],
+  "cssTheme": "Minimal",
+  "accentColor": "#6c9d62",
+  "theme": "moonstone",
+  "nativeMenus": true
+}
