@@ -1,4 +1,4 @@
-﻿# ===== Obsidian Git 同步忽略清单 =====
+# ===== Obsidian Git 同步忽略清单 =====
 # 本地工具/插件缓存，不参与版本管理
 .opencode/
 .copilot/
