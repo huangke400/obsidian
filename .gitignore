@@ -25,3 +25,7 @@ node_modules/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# 纯 UI 状态文件
+.obsidian/plugins/recent-files-obsidian/data.json
+

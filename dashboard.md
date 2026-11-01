@@ -13,11 +13,15 @@ quickActions:
     icon: "notebook-pen"
     type: file
     target: "1455-清洁能源推广项目/00-项目管理/11-任务清单计划中汇总.kanban.md"
+  - name: "认知"
+    icon: "file-text"
+    type: file
+    target: "认知.md"
 quickActionOrder:
   - "c:1455-清洁能源推广项目/00-项目管理/11-任务清单计划中汇总.kanban.md"
-  - "p:file-explorer:new-file"
 hiddenPresets:
   - "p:daily-notes"
+  - "p:file-explorer:new-file"
 immersiveBackground: "https://images.unsplash.com/photo-1788651946293-893d6b217f34?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0"
 immersive:
   - id: "widget:calendar"
@@ -109,9 +113,8 @@ columns:
 ### 2026-11-01 备忘录
 id: card-mvxyl8dp
 type: task
-- [x] 今天完成
 
-### 2026-11-01 备忘
+### 2026-11-01 认知
 id: demo-memo-1
 type: generic
 提升自己的认知和学习效率，追求内心的自洽

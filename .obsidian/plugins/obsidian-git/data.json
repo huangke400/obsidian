@@ -1,0 +1,16 @@
+﻿{
+    "commitMessage":  "vault backup: {{date}}",
+    "autoCommitMessage":  "vault backup: {{date}}",
+    "commitDateFormat":  "YYYY-MM-DD HH:mm:ss",
+    "autoSaveInterval":  10,
+    "autoPushInterval":  10,
+    "autoPullInterval":  0,
+    "autoPullOnBoot":  true,
+    "disablePush":  false,
+    "pullBeforePush":  true,
+    "disablePopups":  true,
+    "showStatusBar":  true,
+    "showBranchStatusBar":  true,
+    "changedFilesInStatusBar":  true,
+    "refreshSourceControl":  true
+}
